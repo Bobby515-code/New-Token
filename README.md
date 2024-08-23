@@ -32,7 +32,6 @@ The `MyToken` project aims to create a decentralized digital asset that can serv
 
 ## Contract Address
 
-- **Network**: Ethereum Mainnet (or Testnet, depending on your deployment)
 - **Contract Address**: 0x309673d02a141bbb080f51999164457cd9078b36
 - ![Screenshot 2024-08-23 125520](https://github.com/user-attachments/assets/e095be6b-a665-4577-9235-08b267320a5f)
 
