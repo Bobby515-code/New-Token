@@ -1,6 +1,5 @@
 # MyToken Project
-![WhatsApp Image 2024-08-23 at 12 42 48_10d96b96](https://github.com/user-attachments/assets/6023dd7e-ebb7-4650-9c0a-68f87b1a3814)
-
+![image](https://github.com/user-attachments/assets/990f7310-045a-44ea-9db0-49d2f361a6ca)
 
 ## Vision
 
